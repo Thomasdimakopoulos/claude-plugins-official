@@ -2,3 +2,4 @@
 .claude/
 config.bat
 node_modules
+.env
